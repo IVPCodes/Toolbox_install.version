@@ -1,4 +1,4 @@
-# Toolbox_install.version
+# CHANGELOG
 Version 1.2.2
 This is an Windows Optimization Tool named "Toolbox" with it's rich and wide range of tools.
 Programmed by just one Teen.
